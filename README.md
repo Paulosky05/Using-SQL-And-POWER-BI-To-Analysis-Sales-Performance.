@@ -1,7 +1,10 @@
-# Toman bike_sales Analysis
+## Bike-Sales Analysis
 
 ### Project Overview
 This data analysis projects aims to provide insightd into the sales performance of a bike sales company between 2021-2022. By analysing various aspects of the sales data, we seek to identify trends, make data driven recommendations and gain a deeper understanding of the company's performance.This project involves setting up a database ,joining the tables in microsoft sql management sudio and  connecting to powerBi to building a dashoard.
+
+![Screenshot 2024-08-24 063659](https://github.com/user-attachments/assets/6d29559a-33ac-41d2-820c-ffc23ef373e2)
+
 
 ### Obectives
 1. Create a database
@@ -66,6 +69,7 @@ The anaalsis results are summarised as follows:
 1. The company's sales have been steadily increasing over the pastyear,with a noticeable peak incre increase from the month of may to october.
 2. The company made a 0.45% increase in sales in 2022 compared to 2021
 3. customer registered should be targeted for marketting.
+   
 
 ### Recommendation
 
@@ -93,6 +97,10 @@ committing fully to a price that might turn out to be too high.
 
    ### Author PAUL THE ANALYST
    This project is part of my portfolio,showcasing my SQL and powerbi skills essential for data analyst roles.. if you have any feedback,questions or would like to collaborate feel free to get in touch!
+   
+   ** REACH ME ON LINKEDIN** [click-here](https://www.linkedin.com/in/paul-muoghalu-2b8a3b272?utm)
+   😄
+   🖥️
 
      
      
