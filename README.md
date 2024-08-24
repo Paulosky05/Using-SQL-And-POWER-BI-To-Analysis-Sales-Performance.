@@ -30,12 +30,13 @@ Toman-sales-Data: The primary dataset used for this analysis is the '(bike-share
  - Seasonal Revenues
  - Rider Demographics
 
-   ### Data analysis
+   ### Data Base Creation
 
 ```sql
 CREATE DATABASE Bike-sales;
 USE Bike-sales;
 ```
+### Data Analysis
 ```
 with CTE as (select *
 from bike_share_yr_0
@@ -74,7 +75,25 @@ Price Setting:
 - A 10% increase would set the price at approximately 5.49.
 
  #### Recommended Strategy
-  Market Analysis: Conduct further market research to understand
+- Market Analysis: Conduct further market research to understand customer satisfaction, potential
+competitive changes, and the overall economic environment. This can guide whether leaning towards the
+lower or higher end of the suggested increase.
+- Segmented Pricing Strategy: Consider different pricing for casual versus registered users, as they may
+have different price sensitivities.
+- Monitor and Adjust: Implement the new prices but be ready to adjust based on immediate customer
+feedback and sales data, Monitoring closely will allow you to fine-tune your pricing strategy without
+committing fully to a price that might turn out to be too high.
+
+### How to Use 
+1. clone the repository: Clone the project repository from github
+2. Set up the database: Run the Sql scripts provided in the database creation to ctrate and populate the database
+3. Run the queries: Use the sql queries provided in the analysis section toperform your analysis
+4. Connect to a powerbi or any visualisation tool to build a dashboards
+5. Modifty and Explore
+
+   ### Author PAUL THE ANALYST
+   This project is part of my portfolio,showcasing my SQL and powerbi skills essential for data analyst roles.. if you have any feedback,questions or would like to collaborate feel free to get in touch!
+
      
      
      
