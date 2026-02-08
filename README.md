@@ -1,18 +1,18 @@
 # Bike-Sales Analysis
 ## Table of content 
--[project-overview](project-overview)
--[Objectives](objectivs)
--[Data_source](data-source)
--[Tools](Tools)
--[Data_cleaning-preparation](data-cleaning-preparation)
--[Explanatory-Data-Analysis](Exploratory-Data-Analysis)(EDA)
--[Data-Base-Creation](Data-Base-Creation)
--[Data Analysis](Data-Analysis)
--[Results](Results)
--[Recommendation](Recommendation)
--[Recommendation-Strategy](Recommendation-Strategy)
--[How-to-Use](How-tO-Use)
--[Author-PAUL-THE-ANALYST](Author-PAUL-THE-ANALYST)
+-[project-overview](#project-overview)
+-[Objectives](#objectivs)
+-[Data_source](#data-source)
+-[Tools](#Tools)
+-[Data_cleaning-preparation](#data-cleaning-preparation)
+-[Explanatory-Data-Analysis](#Exploratory-Data-Analysis)(EDA)
+-[Data-Base-Creation](#Data-Base-Creation)
+-[Data Analysis](#Data-Analysis)
+-[Results](#Results)
+-[Recommendation](#Recommendation)
+-[Recommendation-Strategy](#Recommendation-Strategy)
+-[How-to-Use](#How-tO-Use)
+-[Author-PAUL-THE-ANALYST](#Author-PAUL-THE-ANALYST)
 
 
 ### Project Overview
