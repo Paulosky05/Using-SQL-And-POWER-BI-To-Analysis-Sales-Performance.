@@ -1,4 +1,19 @@
-## Bike-Sales Analysis
+# Bike-Sales Analysis
+## Table of content 
+-[project-overview](project-overview)
+-[Objectives](objectivs)
+-[Data_source](data-source)
+-[Tools](Tools)
+-[Data_cleaning-preparation](data-cleaning-preparation)
+-[Explanatory-Data-Analysis](Exploratory-Data-Analysis)(EDA)
+-[Data-Base-Creation](Data-Base-Creation)
+-[Data Analysis](Data-Analysis)
+-[Results](Results)
+-[Recommendation](Recommendation)
+-[Recommendation-Strategy](Recommendation-Strategy)
+-[How-to-Use](How-tO-Use)
+-[Author-PAUL-THE-ANALYST](Author-PAUL-THE-ANALYST)
+
 
 ### Project Overview
 This data analysis projects aims to provide insightd into the sales performance of a bike sales company between 2021-2022. By analysing various aspects of the sales data, we seek to identify trends, make data driven recommendations and gain a deeper understanding of the company's performance.This project involves setting up a database ,joining the tables in microsoft sql management sudio and  connecting to powerBi to building a dashoard.
@@ -6,7 +21,7 @@ This data analysis projects aims to provide insightd into the sales performance 
 ![Screenshot 2024-08-24 063659](https://github.com/user-attachments/assets/6d29559a-33ac-41d2-820c-ffc23ef373e2)
 
 
-### Obectives
+### Objectives
 1. Create a database
 2. Develop Sql Queries
 3. Connect Power BI To DB
