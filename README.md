@@ -50,12 +50,12 @@ Toman-sales-Data: The primary dataset used for this analysis is the '(bike-share
 
    ### Data Base Creation
 
-```sql
+``` sql
 CREATE DATABASE Bike-sales;
 USE Bike-sales;
 ```
 ### Data Analysis
-```
+``` sql
 with CTE as (select *
 from bike_share_yr_0
 union
